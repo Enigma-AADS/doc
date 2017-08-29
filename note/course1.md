@@ -1,4 +1,4 @@
-### 第一次课内容大纲：
+### 第一次课大纲：
                      
 ![基本数据结构](https://github.com/Enigma-AADS/docs/blob/master/image/note/course1/abstractdatetype.png?raw=true)
               
@@ -19,9 +19,15 @@
 ----------
 
 ### 课程内容：
-#### 1. 时间复杂度O(N)和基础介绍[14:00-23:00]
+视频：[https://pan.baidu.com/s/1o7TPgwi](https://pan.baidu.com/s/1o7TPgwi) 密码：ktxx  
 
-#### 2. LinkedList链表数组[23:00-42:00]：
+- Chunk it up（知识拆解）
+- Deliberate practicing（刻意练习）
+- Feedbacks（反馈）
+
+#### 1. 数据结构基础和时间复杂度O(N)[0-42:00]
+
+#### 2. LinkedList链表数组[42:00-1:04:00]：
 - 插入删除快、查询慢
 - 关键：两个节点间保存关联
 
@@ -30,16 +36,16 @@
 - 两两节点反转链表：[swap-nodes-in-pairs](https://leetcode.com/problems/swap-nodes-in-pairs)
 - 判断环链表：[linked-list-cycle](https://leetcode.com/problems/linked-list-cycle)
 
-#### 3. Stack&Queue[42:00]：
+#### 3. Stack&Queue[1:04:00-1:22:00]：
 - stack：last in first out先入后出
 - queue：first in first out先入先出
 
-##### 3.1 Priority Queue(heap)优先队列[07:00]
+##### 3.1 Priority Queue(heap)优先队列[1:04:00-1:22:00]
 - 二叉堆、优先队列
 - [heap介绍](https://zh.wikipedia.org/wiki/%E5%A0%86_(%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84))
 
 
-#### 4. Hash[16:00]：
+#### 4. Hash[1:22:00-1:26:00]：
 - 重点：哈希函数（除留余数法易理解），桶bucket大小
 - 问题：判断是否重复（[可考虑java的HashMap为什么需要key](http://www.importnew.com/7099.html)）
 
