@@ -19,7 +19,6 @@
 ----------
 
 ### 课程内容：
-视频：[https://pan.baidu.com/s/1o7TPgwi](https://pan.baidu.com/s/1o7TPgwi) 密码：ktxx  
 
 - Chunk it up（知识拆解）
 - Deliberate practicing（刻意练习）
